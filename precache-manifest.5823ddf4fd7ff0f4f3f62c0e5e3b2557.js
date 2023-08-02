@@ -152,16 +152,8 @@ self.__precacheManifest = [
     "url": "/test/static/media/seemore.63bed275.png"
   },
   {
-    "revision": "72452e4ccc58158b2b3999468751a045",
-    "url": "/test/static/media/AvertaStdCY-Bold.72452e4c.eot"
-  },
-  {
     "revision": "b2feed6816231fc53efe80b5a553c17c",
     "url": "/test/static/media/AvertaStdCY-Bold.b2feed68.woff2"
-  },
-  {
-    "revision": "c128bea2d3cb2c9bef2e09ee7b54b8b6",
-    "url": "/test/static/media/AvertaStdCY-Bold.c128bea2.ttf"
   },
   {
     "revision": "5a9b0a113e982da86595004dbf32126f",
@@ -176,20 +168,28 @@ self.__precacheManifest = [
     "url": "/test/static/media/AvertaStdCY-Extrabold.aa35f80e.woff2"
   },
   {
-    "revision": "c188adb371f5151b21abd2f6cd23d445",
-    "url": "/test/static/media/AvertaStdCY-Extrabold.c188adb3.eot"
-  },
-  {
-    "revision": "e327f10642e99a4aa515658499dd264c",
-    "url": "/test/static/media/AvertaStdCY-Black.e327f106.woff2"
+    "revision": "72452e4ccc58158b2b3999468751a045",
+    "url": "/test/static/media/AvertaStdCY-Bold.72452e4c.eot"
   },
   {
     "revision": "65af04991ab2f34c5391e81d5c8a90e0",
     "url": "/test/static/media/AvertaStdCY-Extrabold.65af0499.ttf"
   },
   {
+    "revision": "c128bea2d3cb2c9bef2e09ee7b54b8b6",
+    "url": "/test/static/media/AvertaStdCY-Bold.c128bea2.ttf"
+  },
+  {
+    "revision": "c188adb371f5151b21abd2f6cd23d445",
+    "url": "/test/static/media/AvertaStdCY-Extrabold.c188adb3.eot"
+  },
+  {
     "revision": "5c3041a28e63deef6dfabdd5cd39a2ea",
     "url": "/test/static/media/AvertaStdCY-Black.5c3041a2.woff"
+  },
+  {
+    "revision": "e327f10642e99a4aa515658499dd264c",
+    "url": "/test/static/media/AvertaStdCY-Black.e327f106.woff2"
   },
   {
     "revision": "b49ff615508be7c8a32fcb5084a2f2f4",
@@ -204,10 +204,6 @@ self.__precacheManifest = [
     "url": "/test/static/media/AvertaStdCY-Light.04d18703.eot"
   },
   {
-    "revision": "e07faa7e510141ddbc098f141bc31491",
-    "url": "/test/static/media/AvertaStdCY-Light.e07faa7e.ttf"
-  },
-  {
     "revision": "7bdb540f7a0d732f8200e1de6318af35",
     "url": "/test/static/media/AvertaStdCY-Light.7bdb540f.woff"
   },
@@ -216,12 +212,16 @@ self.__precacheManifest = [
     "url": "/test/static/media/AvertaStdCY-Light.acb42cc8.woff2"
   },
   {
-    "revision": "3fd061f7a9ebd8a705b5b9e2b97a6231",
-    "url": "/test/static/media/AvertaStdCY-LightItalic.3fd061f7.woff2"
+    "revision": "e07faa7e510141ddbc098f141bc31491",
+    "url": "/test/static/media/AvertaStdCY-Light.e07faa7e.ttf"
   },
   {
     "revision": "ba392e22dff2e30115ab1a6038df1742",
     "url": "/test/static/media/AvertaStdCY-LightItalic.ba392e22.woff"
+  },
+  {
+    "revision": "3fd061f7a9ebd8a705b5b9e2b97a6231",
+    "url": "/test/static/media/AvertaStdCY-LightItalic.3fd061f7.woff2"
   },
   {
     "revision": "638424fad2b5dd3b4d6d4cdf7a25a5f5",
@@ -232,6 +232,10 @@ self.__precacheManifest = [
     "url": "/test/static/media/AvertaStdCY-LightItalic.816a6855.ttf"
   },
   {
+    "revision": "f15be4a15a522d413afca566fa8b7999",
+    "url": "/test/static/media/AvertaStdCY-Regular.f15be4a1.woff"
+  },
+  {
     "revision": "7fa1ca54eb190640d59618b0e06a1fa8",
     "url": "/test/static/media/AvertaStdCY-Regular.7fa1ca54.woff2"
   },
@@ -240,44 +244,40 @@ self.__precacheManifest = [
     "url": "/test/static/media/AvertaStdCY-Regular.4421bd96.eot"
   },
   {
-    "revision": "06eabe3d882cea5224fa18d776c079f1",
-    "url": "/test/static/media/AvertaStdCY-Regular.06eabe3d.ttf"
-  },
-  {
     "revision": "7851d0ceb18edbeaa5001156b89946d6",
     "url": "/test/static/media/AvertaStdCY-Semibold.7851d0ce.woff"
   },
   {
-    "revision": "f15be4a15a522d413afca566fa8b7999",
-    "url": "/test/static/media/AvertaStdCY-Regular.f15be4a1.woff"
+    "revision": "06eabe3d882cea5224fa18d776c079f1",
+    "url": "/test/static/media/AvertaStdCY-Regular.06eabe3d.ttf"
   },
   {
     "revision": "b185fa933e0f6a3256a3bb393ad3954e",
     "url": "/test/static/media/AvertaStdCY-Semibold.b185fa93.woff2"
   },
   {
-    "revision": "838f4a3dc99f4808b287a544f8a5a65e",
-    "url": "/test/static/media/AvertaStdCY-Semibold.838f4a3d.eot"
-  },
-  {
     "revision": "ce4a50d9c8936afdc36297591a44738e",
     "url": "/test/static/media/AvertaStdCY-Semibold.ce4a50d9.ttf"
   },
   {
-    "revision": "adb6d7537a0c97fab65a8191849c935c",
-    "url": "/test/static/media/AvertaStdCY-Bold.adb6d753.svg"
+    "revision": "838f4a3dc99f4808b287a544f8a5a65e",
+    "url": "/test/static/media/AvertaStdCY-Semibold.838f4a3d.eot"
   },
   {
     "revision": "e3fafff91dda540b46f14fdea9f5a71d",
     "url": "/test/static/media/AvertaStdCY-Black.e3fafff9.svg"
   },
   {
-    "revision": "97ae0901388dcc543314222ffe99969c",
-    "url": "/test/static/media/AvertaStdCY-Extrabold.97ae0901.svg"
+    "revision": "adb6d7537a0c97fab65a8191849c935c",
+    "url": "/test/static/media/AvertaStdCY-Bold.adb6d753.svg"
   },
   {
     "revision": "fb7b606deb01aeafa6da58b4077f53e8",
     "url": "/test/static/media/AvertaStdCY-Light.fb7b606d.svg"
+  },
+  {
+    "revision": "97ae0901388dcc543314222ffe99969c",
+    "url": "/test/static/media/AvertaStdCY-Extrabold.97ae0901.svg"
   },
   {
     "revision": "2057f84f9f90cb55f76182bfd05e3df2",
