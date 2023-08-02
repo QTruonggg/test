@@ -13,6 +13,7 @@
 .slide-new {
   flex: 0 0 100%; 
   max-width: 25%; 
+  transition: transform 0.5s ease-in-out;
 }
 
 
