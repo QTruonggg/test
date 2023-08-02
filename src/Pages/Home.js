@@ -23,7 +23,7 @@ const Home = () => {
             <Empowring></Empowring>
 
             <marquee behavior="scroll" direction="left">
-                <p className='textRun'>building for <span style={{color:'#4CA757'}}>green</span> energy </p>
+                <p className='textRun'>building for <span style={{color:'#4CA757'}}>green</span> energy</p>
             </marquee>
               
             <News></News>
