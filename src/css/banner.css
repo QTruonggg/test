@@ -1,0 +1,60 @@
+.carousel-item {
+    position: relative;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s, transform 1s;
+}
+  
+.carousel-item.active {
+opacity: 1;
+transform: translateY(0);
+}
+
+.carousel-caption{
+    position: absolute;
+    width: 1763px;
+    bottom: 195px;
+    height: 440px;
+    left: 0;
+    z-index: 10;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #fff;
+    margin: 0 70px;
+}
+
+.banner-leftContent{
+    float: left;
+    width: 800px;
+    text-align: left;
+}
+
+.banner-rightContent{
+    position: absolute;
+    width: 448px;
+    text-align: left;
+    bottom: 0;    
+    right: 70px;
+}
+.banner-rightContent > p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+
+.carousel-indicators{
+    bottom: -80px;
+    align-items: center;
+}
+
+.carousel-indicators img{
+    cursor: pointer;
+    margin: 0 200px;
+}
+
+.carousel-indicators .active {
+    background-color: unset;
+}
+
